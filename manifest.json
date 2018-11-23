@@ -6,7 +6,7 @@
   "UniqueID": "spacechase0.Magic",
   "PerSaveConfigs": false,
   "EntryDll": "Magic.dll",
-  "MinimumApiVersion": "1.14-prerelease",
+  "MinimumApiVersion": "2.8-prerelease",
   "UpdateKeys": [ "Nexus:2007", "Chucklefish:5242" ],
   "Dependencies": [
     {
